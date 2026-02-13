@@ -1,4 +1,4 @@
-console.log("Bienvvenido a la aplicacion de consola");
+console.log("Bienvenido a la aplicacion de consola");
 console.log("*".repeat(50));
 console.log("Por favor ingrese que comando desea ejecutar");
 
